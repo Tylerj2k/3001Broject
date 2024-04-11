@@ -1,2 +1,2 @@
-# 3001Broject
+# 3001Project
 Morse code Translator - Real Time
